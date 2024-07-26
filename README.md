@@ -6,3 +6,4 @@ This is a short guidebook of useful tools, such as: tmux, neovim, zsh.
 - current configs description
 - shortcuts and bindings
 - useful links
+<a href="https://www.youtube.com/watch?v=LkFtvMzMwjw&t=2s"></a>
